@@ -1,0 +1,145 @@
+{
+  "GameSpace": [
+      {
+          "id": 1,
+          "name": "Secret Hitler",
+          "editorial":"Goat Wolf & Cabbage",
+          "game type": "rol",
+          "number of player": "5 - 10 palyers",
+          "recommended age": "+14 age",
+          "game time": "30-45 minutes",
+          "difficulty":"high",  
+          "description": "Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930's Germany. Players are secretly divided into two teams-liberals and fascists: Known only to each other, the facistis coordinate to sow destrust and install their cold-blooded leader. The liberals must find and stop the Secret Hitler before it is too late",
+          "price": "30 €",
+          "imagen": ""
+          
+      },
+
+      {
+          "id": 2,
+          "name": "Potion Explosion",
+          "editorial":"Edge Entretainment",
+          "game type": "strategic",
+          "number of player":"2 - 4 players",
+          "recommended age": "+8 age",
+          "game time":"30 to 60 minutes",
+          "difficulty":"easy",
+          "description": "Dear students, it's time for the final exams of the Potions class! The rules are always the same: Take an ingredient marble from the dispenser and watch the others fall. If you connect marbles of de same color, they explode and you can take them, too! Complete your potions using the marbles you collect, and drink them to unleash thier magical power. Remenber, though that to win the Student of de Year award, being quick won't be enough: you'll also need to brew the valuable potions in Potion Explosion!",            
+          "price": "59€",
+          "imagen":""
+      },
+
+      {
+          "id": 3,
+          "name": "Pixie Queen",
+          "editorial":"Game Brewer",
+          "game type": "strategic",
+          "number of player":"2 - 5 players",
+          "recommended age": "+12 age",
+          "game time":"120 minutes",
+          "difficulty":"half",
+          "description": "Pixie Queen is a smothly playing worker-placement game about a pixie queen who rules over her subordinates like a true tyrant. The legand tells of pixies being small, flying, naughty creatures often spotted in the area of Cronwall and Devon in the UK. Apart from the steling, bulling and torturing, they are considered a big nuisance to the human inhabitants of the region. Accordin to the game, they are obliged to do so by their pixie queen...",
+          "price": "45€  ",
+          "imagen": ""
+      },
+
+      {
+          "id": 4,
+          "name": "Zombicide: 2nd Edition ",
+          "editorial":"CMON",
+          "game type": "strategic",
+          "number of player":"1 - 6 players",
+          "recommended age": "+14 age",
+          "game time":"60 minutes",
+          "difficulty":"easy",
+          "description": "Zombicide, the board game, has taken the world by storm with over two million copies sold since its release in 2012 and spawning a cult franchise of cooperative zombie slaying all over the world. In Zombicide, are controlled by the game, while players take on the role of survivors who must co-operate in order to survive and thrive in a world overrun by the bloodthirsty undead. Finf guns and gear to take the fight to the zombies through 25 different scenarios linked by a branching story as you pick your way through an infested city",
+          "price": "123€",
+          "imagen":""
+      },
+
+      {
+          "id": 5,
+          "name": "Root",
+          "editorial":"Leder Games",
+          "game type": "asymmetric",
+          "number of player":"2 - 4 players",
+          "recommended age": "+10 ages",
+          "game time":"60 to 90 minutes",
+          "description": "Root is a game of woodland might and right. Stalk the woods as one of the Vagabonds, seize the initiative with the Eyrie birds of prey, rule over your subjects as the Marquise de Cat, or command the Woodland Alliance to create a new order. With creatures and cunning, you'll rule a fantastic forest kindom in the ultimate asymmetric board game of adventure and war",
+          "difficulty":"medium",
+          "price": "60€",
+          "imagen":""
+      },
+
+      {
+          "id": 6,
+          "name": "Eclipse: Second Dawn for the Galaxy",
+          "editorial":"Lautapelit fi",
+          "game type": "strategy",
+          "number of player":"2 - 6 players",
+          "recommended age": "+14 age",
+          "game time":"60 to 200 minutes",
+          "description": "Eclipse places you in control of a vast interstellar civilization. Explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according of the strengths and weaknesses of you species, while paying attention to the other civizations endeavors",
+          "difficulty":"high",
+          "price": "120€",
+          "imagen":""
+      },
+
+      {
+          "id": 7,
+          "name": "Munchkin",
+          "editorial":"Edge Entretainment",
+          "game type": "rol",
+          "number of player":"3 - 6 players",
+          "recommended age": "+12 age",
+          "game time":"60  minutes",
+          "description": "Munchkin is a card game un which the player starts as a level 1 human with no class and his goal is to reach level 10 before the help of weapons, overcome curses that could greatly annoy and wisely use the equipment found in the dungeons",
+          "difficulty":"medium",
+          "price": "25€",
+          "imagen":""
+      },
+
+      {
+          "id": 8,
+          "name": "Mysterium",
+          "editorial":"Asmodee",
+          "game type": "rol",
+          "number of player":"2 - 7 players",
+          "recommended age": "+10 age",
+          "game time":"30-45 minutes",
+          "description": "Can you guide a group of mediums to help solve the mystery of your death in Mysterium? Easy enough, but you're only allowed to communicate to your friends using cryptic vision cards, and all you can do is watch as your friends struggle in confusion",
+          "difficulty":"easy",
+          "price": "39€",
+          "imagen":""
+      },
+      
+      {
+          "id": 9,
+          "name": "Catan",
+          "editorial":"Kosmos",
+          "game type": "Strategy",
+          "number of player":"3 - 4 players",
+          "recommended age": "+10 age",
+          "game time":"60 - 120 minutes",
+          "description": "Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan - the race to settle the island has begun!   ",
+          "difficulty":"easy",
+          "price": "40€",
+          "imagen":""
+      },
+
+      {
+          "id": 10,
+          "name": "Agricola",
+          "editorial":"Asmodee",
+          "game type": "strategy",
+          "number of player":"1 - 4 players",
+          "recommended age": "+12 age",
+          "game time":"30 - 120 minutes",
+          "description": "Agricola is one of the most talked about board games in recent years. In Agricola we will have to run a farm doing all kinds of activities: building, barns, tilling, sowing, raising animals, improving our house and having our own family. Become the best farmer with Agricola! ",
+          "difficulty":"medium",
+          "price": "40€",
+          "imagen":""
+      }
+
+  ]
+}
