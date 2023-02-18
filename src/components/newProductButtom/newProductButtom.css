@@ -1,0 +1,26 @@
+@font-face{
+    font-family:'Fugaz One';
+    src: url(/src/assets/fonts/Fugaz_One/FugazOne-Regular.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+.newProductButtom{
+    height: 3.125rem;
+    width: 12.5rem;
+    background-color: pink;
+    margin: .125rem;
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    font-family: 'Fugaz One';
+    color: black;
+    font-size: 1.25rem;
+}
+
+.addIcon{
+    height: 1.25rem;
+    width: 1.25rem;
+}
